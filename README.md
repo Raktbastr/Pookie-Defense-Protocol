@@ -1,6 +1,6 @@
-Threatens you
-Makes Files
-Deletes Them
-Shuts down your computer
+* Threatens you
+* Makes Files
+* Deletes Them
+* Shuts down your computer
 
 The perfect shutdown script
